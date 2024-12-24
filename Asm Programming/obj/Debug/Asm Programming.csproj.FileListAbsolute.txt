@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Asm Programming\bin\Debug\Asm Programming.exe.config
+C:\Users\Admin\source\repos\Asm Programming\bin\Debug\Asm Programming.exe
+C:\Users\Admin\source\repos\Asm Programming\bin\Debug\Asm Programming.pdb
+C:\Users\Admin\source\repos\Asm Programming\obj\Debug\Asm Programming.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Asm Programming\obj\Debug\Asm Programming.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Asm Programming\obj\Debug\Asm Programming.exe
+C:\Users\Admin\source\repos\Asm Programming\obj\Debug\Asm Programming.pdb
